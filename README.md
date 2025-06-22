@@ -1,5 +1,7 @@
 # QuickSnip
 
+##LiveDemo - https://quicksnip-gamma.vercel.app
+
 **QuickSnip** is a beautiful, modern, and privacy-friendly code snippet manager that runs entirely in your browser. Organize, save, copy, and export your favorite code snippets with a delightful glassmorphism UI and seamless light/dark mode.
 
 ![diagram](https://github.com/user-attachments/assets/85ff2948-5356-41af-9d55-35c2a6bb1be1)
