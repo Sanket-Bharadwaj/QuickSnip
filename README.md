@@ -2,7 +2,7 @@
 
 **QuickSnip** is a beautiful, modern, and privacy-friendly code snippet manager that runs entirely in your browser. Organize, save, copy, and export your favorite code snippets with a delightful glassmorphism UI and seamless light/dark mode.
 
-![QuickSnip Screenshot](https://raw.githubusercontent.com/Sanket-Bharadwaj/QuickSnip/main/assets/screenshot.png)
+![QuickSnip Screenshot](![diagram](https://github.com/user-attachments/assets/c73c254a-6de8-4271-a0e2-29792d273916))
 
 ---
 
