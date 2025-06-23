@@ -4,72 +4,56 @@
 
 **QuickSnip** is a beautiful, modern, and privacy-friendly code snippet manager that runs entirely in your browser. Organize, save, copy, and export your favorite code snippets with a delightful glassmorphism UI and seamless light/dark mode.
 
-
 ![diagram (1)](https://github.com/user-attachments/assets/b6498f31-12aa-4e9e-8ff7-0a90f4e091a8)
 
 ---
 
 ## ✨ Features
 
-- **Add & Organize Snippets:** Save code snippets with a title and language/tag.
-- **Copy to Clipboard:** Instantly copy code with one click.
-- **Export Snippets:** Download individual snippets as files (with correct extension).
-- **Export All as PDF:** Export all your snippets into a single PDF file.
-- **Delete with Confirmation:** Prevent accidental deletions with a confirmation dialog.
-- **Beautiful UI:** Modern glassmorphism design, responsive layout, and smooth animations.
-- **Light & Dark Mode:** Toggle between light and dark themes with a slick switch.
-- **Privacy-First:** All data is stored locally in your browser (no accounts, no servers).
-
----
+- **Glassmorphism UI:** Modern, frosted-glass look for a delightful experience.
+- **Light/Dark Mode:** Toggle seamlessly between light and dark themes.
+- **Privacy-Friendly:** All your snippets are stored locally in your browser.
+- **Multi-Language Support:** Save snippets for JavaScript, Python, C++, HTML, CSS, and more.
+- **Quick Copy & Export:** Instantly copy code or export snippets as PDF.
+- **No Login Required:** Use instantly, no sign-up or account needed.
 
 ## 🚀 Getting Started
 
-### 1. Clone or Download
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Sanket-Bharadwaj/QuickSnip.git
+   cd QuickSnip
+   ```
 
-```bash
-git clone https://github.com/Sanket-Bharadwaj/QuickSnip.git
-cd QuickSnip
-```
+2. **Open `index.html` in your browser:**
+   - Double-click `index.html` or open with your preferred browser.
 
-Or simply [download the ZIP](https://github.com/Sanket-Bharadwaj/QuickSnip/archive/refs/heads/main.zip) and extract.
-
-### 2. Open in Browser
-
-Just open `index2.html` in your favorite browser.  
-No build steps, no dependencies, no setup required!
-
----
+3. **(Optional) Run locally with a server:**
+   ```bash
+   # Using Python 3
+   python3 -m http.server
+   # Then visit http://localhost:8000
+   ```
 
 ## 🖥️ Usage
 
-- **Add a Snippet:**  
-  Fill in the title, select a language/tag, paste your code, and click **Save Snippet**.
+- **Add a Snippet:** Fill in the title, select a language/tag, paste your code, and click "Save Snippet".
+- **Copy/Export:** Use the copy button to copy code, or export as PDF.
+- **Theme Switch:** Use the toggle in the navbar to switch between light and dark mode.
 
-- **Copy:**  
-  Click the 📋 **Copy** button to copy code to your clipboard.
+## 🛠️ Tech Stack
 
-- **Export:**  
-  Click the 📤 **Export** button to download the snippet as a file.
+- **HTML, CSS, JavaScript**
+- [jsPDF](https://github.com/parallax/jsPDF) for PDF export
 
-- **Export All:**  
-  Use the **Export All Snippets** button to download all snippets as a single PDF.
+## 📸 UI Preview
 
-- **Delete:**  
-  Click 🗑️ **Delete** and confirm to remove a snippet.
+![QuickSnip UI Preview](https://github.com/user-attachments/assets/b6498f31-12aa-4e9e-8ff7-0a90f4e091a8)
 
-- **Theme Switch:**  
-  Use the toggle in the navbar to switch between light and dark mode.
+## 🙏 Credits
 
----
-
-## 📦 Tech Stack
-
-- **HTML5 + CSS3** (Glassmorphism, Responsive, Animations)
-- **Vanilla JavaScript** (No frameworks)
-- **[jsPDF](https://github.com/parallax/jsPDF)** for PDF export
+Made with ❤️ by [Sanket Bharadwaj](https://github.com/Sanket-Bharadwaj)
 
 ---
 
-## 🛡️ Privacy
-
-All your
+> **Note:** QuickSnip is fully client-side. Your code snippets never leave your browser.
